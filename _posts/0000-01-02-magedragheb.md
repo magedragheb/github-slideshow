@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our second slide!"
 ---
 
-Use the right arrow to begin!
+Make sure to follow directions or you will never compelete this assignment! Use the left arrow to go back!
